@@ -1,2 +1,2 @@
 # DSA
-.txt files of Data structures and algorithms
+Consists of .txt files of Data structures and algorithms
